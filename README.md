@@ -351,17 +351,17 @@ Class Library merupakan pustaka kode program yang dapat digunakan bersama pada b
 
 -> **Output Tugas :**
 
-## `Home.php`
+## `home.php`
 
 ![image](https://github.com/adeliadhea06/Lab10Web/assets/115794875/b4e45e68-7404-4065-822c-275f81bdb604)
 
 
-## `About.php`
+## `about.php`
 
    ![image](https://github.com/adeliadhea06/Lab10Web/assets/115794875/18505c09-f4fa-4a78-a7c4-c44064f87986)
 
 
-## `Kontak.php`
+## `kontak.php`
 
    ![image](https://github.com/adeliadhea06/Lab10Web/assets/115794875/30022dd4-68f7-4127-8420-0c9aa4ed1f4e)
 
